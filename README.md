@@ -6,7 +6,7 @@ Bachelor's thesis in Computer Science (Data Analysis curriculum), University of 
 *"Towards Investigating the Role of Artificial Intelligence in Neurological Rehabilitation"*
 Author: **Sepehr Mojdehdehbaher** · Supervisor: Prof. Antonio Celesti
 
-📄 [Thesis (PDF)](docs/thesis.pdf) · 📊 [Presentation slides (PDF)](docs/presentation.pdf)
+📄 [Thesis (PDF)](thesis.pdf) · 📊 [Presentation slides (PDF)](presentation.pdf)
 
 ---
 
@@ -55,13 +55,11 @@ Data: **50 participants** (46 healthy volunteers, 4 people with Parkinson's dise
 ## Repository
 
 ```
-├── vrrs_tracking.py                    # main pipeline (run this)
-├── notebooks/
-│   ├── vrrs_notebook.ipynb             # step-by-step version with detailed result cells
-│   └── performance_comparison.ipynb    # MediaPipe vs ball-tracking benchmark (Table 4.2)
-├── docs/
-│   ├── thesis.pdf
-│   └── presentation.pdf
+├── vrrs_tracking.py                # main pipeline (run this)
+├── vrrs_notebook.ipynb             # step-by-step version with detailed result cells
+├── performance_comparison.ipynb    # MediaPipe vs ball-tracking benchmark (Table 4.2)
+├── thesis.pdf
+├── presentation.pdf
 └── requirements.txt
 ```
 

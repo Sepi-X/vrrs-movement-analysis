@@ -1,0 +1,15 @@
+# Session videos and generated reports (participant privacy)
+*.mkv
+*.mp4
+*.mov
+*.avi
+*_hand_tracking*.csv
+*_hand_tracking*.json
+performance_comparison_*.csv
+
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+.venv/
+.DS_Store
